@@ -1,0 +1,18 @@
+.filters {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 14px;
+  justify-content: center;
+}
+
+.filters > div {
+  display: flex;
+}
+
+.box {
+  background-color: #084a96;
+  padding:10px;
+  border-radius: 5px;
+  color: #efb223;
+}
